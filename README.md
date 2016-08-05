@@ -1,2 +1,3 @@
 # LCSelectView
-The Customer View For Select tag Or showTagOnly
+|便签显示控件
+

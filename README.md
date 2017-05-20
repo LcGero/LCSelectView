@@ -1,8 +1,10 @@
-# LCSelectView
+# 自定义标签View或多选控件
 ---------
->TagShowCustomerView,define two type:1.showOnly:no 
-	userInteraction 2.Edit:selectAction is usefull.
+>自定义标签view，提供两中类型:
+>
+>1.showOnly:只显示，不响应点击事件 
+>
+>2.Edit:可选中，响应点击，支持多选、取消等。
 
-###Display
-![Picture](http://ob6qoxguf.bkt.clouddn.com/201685114802439.png)
-
+###图片示例
+![Picture](http://oatrvvhjl.bkt.clouddn.com/example.jpg)

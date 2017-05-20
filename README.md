@@ -6,5 +6,4 @@
 >
 >2.Edit:可选中，响应点击，支持多选、取消等。
 
-###图片示例
 ![Picture](http://oatrvvhjl.bkt.clouddn.com/example.jpg)
